@@ -1,6 +1,4 @@
 # git-demo
-hello Vitaly
-______________
-
-
-merge
+main 1
+2
+3
